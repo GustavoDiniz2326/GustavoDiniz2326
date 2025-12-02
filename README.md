@@ -1,4 +1,4 @@
-# Olá, eu sou Gustavo Diniz2326! 👋
+# Olá, eu sou Gustavo Diniz2326! 
 Sou um iniciante em Python e estou empolgado para aprender mais sobre programação. Meus interesses incluem automação de tarefas, análise de dados e criação de jogos simples. Aqui no GitHub, pretendo compartilhar meus projetos e aprender com a comunidade.
 
 ## Habilidades
