@@ -1,5 +1,5 @@
 # Olá, eu sou Gustavo Diniz! 
-Cursando em Analise e Desenvolvimento de Software
+Cursando Analise e Desenvolvimento de Software
 
 ## Habilidades
 - Python
