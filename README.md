@@ -8,8 +8,6 @@ Cursando Analise e Desenvolvimento de Software
 - HTML
 - CSS
 
-## Projetos em andamento
-- 
 
 
 
